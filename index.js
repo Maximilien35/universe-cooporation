@@ -515,6 +515,10 @@ function loadTestimonialScreenshots() {
             quote: '« Excellente méthodologie »'
         },
         {
+            src: 'image/img13.webp',
+            quote: '« Progression remarquable »'
+        },
+        {
             src: 'image/temoin8.webp',
             quote: '« Progression remarquable »'
         },
